@@ -90,7 +90,7 @@ export default class Presentation extends React.Component {
   render() {
     return (
       <Deck transition={["slide", "fade"]} transitionDuration={500} theme={theme} progress={"pacman"} contentHeight={'100%'} contentWidth={'100%'}>
-        {/* обложка */}
+        {/* обложка1 */}
         <Slide
           transition={["fade"]}
           bgImage="https://1.downloader.disk.yandex.ru/preview/fa82b20704d0f31d30416c5a4c19b29c48bb5a503467d67af73aa2d7517d0c2c/inf/qjtMMnUZb8D4fgYO-r2Nl70HrTVYj2dsf-y2ulwU51vQ-Ct2UynBSSU4jSTNd6M4mp9R6vYjg8Rje6F5dFl7AQ%3D%3D?uid=0&filename=coding_school_0092.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1180x575"
